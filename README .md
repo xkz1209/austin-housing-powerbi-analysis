@@ -71,7 +71,8 @@ Maps Austin-area properties and provides a price-range selector for highlighting
 <details>
 <summary>View location analysis</summary>
 
-![Location analysis](2ef1b718-0b53-4dcc-ba5f-a255649b7ec9.png)
+<img width="1456" height="778" alt="image" src="https://github.com/user-attachments/assets/93cc0a9b-055f-4edd-a18e-38161ccc4eac" />
+
 
 </details>
 
@@ -84,7 +85,8 @@ Combines school-related KPI cards with a bubble map and ZIP-code comparisons. Us
 <details>
 <summary>View school analysis</summary>
 
-![School analysis](4c139bfc-8bae-40bb-a560-2c9a6e3b4eb4.png)
+<img width="1456" height="779" alt="image" src="https://github.com/user-attachments/assets/650e24de-eb1d-421d-ad1b-5b79a56cc5a1" />
+
 
 </details>
 
@@ -102,7 +104,8 @@ Explores differences in listing prices through:
 <details>
 <summary>View feature analysis</summary>
 
-![Property feature analysis](ff5f54f4-50a8-439c-b14c-aee337f3d615.png)
+<img width="1452" height="784" alt="image" src="https://github.com/user-attachments/assets/fcca437c-1b5c-4950-8c52-49d24797a056" />
+
 
 </details>
 
@@ -129,7 +132,8 @@ Percentages for housing composition and the mean–median gap are calculated fro
 <details>
 <summary>View the expanded filter panel</summary>
 
-![Expanded filter panel](d39f34a3-88a1-4776-9246-16cb74410e11.png)
+<img width="1104" height="683" alt="image" src="https://github.com/user-attachments/assets/a93f1014-b3e0-49f8-871b-29b788ccc68d" />
+
 
 </details>
 
