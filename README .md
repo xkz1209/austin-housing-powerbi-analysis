@@ -12,7 +12,8 @@ The report addresses four business questions:
 - Where are properties located, and how can users explore homes within a selected price range?
 - How do school-related characteristics vary across locations?
 - Which property characteristics are associated with higher listing prices?
-<img width="1455" height="785" alt="image" src="https://github.com/user-attachments/assets/fd5ab60f-d771-4c7d-95df-678529e844a8" />
+<img width="1457" height="782" alt="image" src="https://github.com/user-attachments/assets/8f1e40a6-27c5-4b71-970a-5542caf58456" />
+
 
 
 ## Tools & Technical Approach
@@ -84,6 +85,8 @@ Combines school-related KPI cards with a bubble map and ZIP-code comparisons. Us
 
 <details>
 <summary>View school analysis</summary>
+
+
 
 <img width="1456" height="779" alt="image" src="https://github.com/user-attachments/assets/650e24de-eb1d-421d-ad1b-5b79a56cc5a1" />
 
