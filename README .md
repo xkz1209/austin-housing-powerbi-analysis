@@ -12,8 +12,8 @@ The report addresses four business questions:
 - Where are properties located, and how can users explore homes within a selected price range?
 - How do school-related characteristics vary across locations?
 - Which property characteristics are associated with higher listing prices?
+<img width="1455" height="785" alt="image" src="https://github.com/user-attachments/assets/fd5ab60f-d771-4c7d-95df-678529e844a8" />
 
-![Austin housing summary dashboard](8b50d8c0-4b81-4391-8e3c-3494a9763bf9.png)
 
 ## Tools & Technical Approach
 
